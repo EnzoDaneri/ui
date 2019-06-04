@@ -1,0 +1,15 @@
+.cuadrado{
+  width: 150px;
+  height: 150px;
+  background: rgba(0, 153, 204, 1);
+  border: solid 3px #0066cc;
+  transition: 1s;
+margin: 0 auto;
+margin-top: 300px;
+}
+
+.cuadrado:hover{
+  transform: scale(2);
+
+box-shadow: 10px 10px 23px -6px;
+}
